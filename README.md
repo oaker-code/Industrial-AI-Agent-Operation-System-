@@ -1,5 +1,5 @@
 # Industrial-AI-Agent-Operation-System-
-Complex industrial world, will need complex digital world to be compatible. The target is to design a digital system could help industrial organization to adapt to complex industrial environments
+Complex industrial world, will need complex digital world to be compatible. The target is to design a digital system could help industrial organization to adapt to complex industrial environments. The first step is to design for industrial warehousing scenarios.
 # General Industrial AI OS Architecture (Markdown Edition)
 
 ## 1. Document Purpose
