@@ -4,7 +4,7 @@ Complex industrial world, will need complex digital world to be compatible. The 
 
 ## 1. Document Purpose
 
-This document defines a general **Industrial AI OS** architecture for industrial manufacturing and warehousing scenarios.
+This document defines a general **Industrial AI OS** architecture for industrial manufacturing.
 
 The system is not a simple AI plugin for traditional WMS / MES / ERP, nor a loose collection of digital employees. It is a:
 
